@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme_NotActionBar" parent="BaseAppTheme_NotActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="AppTheme_ActionBar" parent="BaseAppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
